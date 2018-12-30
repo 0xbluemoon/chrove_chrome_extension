@@ -3,4 +3,4 @@ This is a google chrome extension. It help user order an internet proxy service 
 
 ### Are you looking for Google chrome extension package?
 
-[Click](https://github.com/0xbluemoon/chrove_chrome_extension/raw/master/scatter%20(10).zip)
+[Click me to download](https://github.com/0xbluemoon/chrove_chrome_extension/raw/master/scatter%20(10).zip)
